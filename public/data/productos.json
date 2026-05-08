@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1234",
+    "imagen": "/assets/ProdImg/prod_1.webp",
+    "nombre": "Tabla Santa Cruz Classic",
+    "precio": 12000,
+    "stock": 15,
+    "categoria": "Tablas",
+    "destacado": true,
+    "descripcion": "Tabla de maple de 7 capas con shape clasico para street y transiciones."
+  },
+  {
+    "id": "2344",
+    "imagen": "/assets/ProdImg/prod_2.webp",
+    "nombre": "Ruedas Spitfire F4",
+    "precio": 45000,
+    "stock": 25,
+    "categoria": "Ruedas",
+    "destacado": true,
+    "descripcion": "Ruedas Formula Four de alta resistencia y agarre para sesion intensa."
+  },
+  {
+    "id": "2545",
+    "imagen": "/assets/ProdImg/prod_3.webp",
+    "nombre": "Trucks Independent 149",
+    "precio": 65000,
+    "stock": 50,
+    "categoria": "Trucks",
+    "destacado": false,
+    "descripcion": "Trucks livianos de eje solido para mayor control y estabilidad en maniobras."
+  }
+]

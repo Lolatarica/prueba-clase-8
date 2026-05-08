@@ -1,0 +1,19 @@
+.container {
+  width: min(1100px, 92%);
+  margin: 2rem auto 3rem;
+}
+
+.title {
+  margin: 0 0 1rem;
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
+}
+
+.content {
+  width: 100%;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
