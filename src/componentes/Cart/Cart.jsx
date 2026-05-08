@@ -1,5 +1,5 @@
 import React from 'react';
-import { useCart } from '../../context/CartContext'; // 1. Importamos el hook
+import { useCart } from '../../Context/CartContext'; // 1. Importamos el hook
 const Cart = () => {
 // 2. Obtenemos el estado 'cart' y las funciones que necesitemos del
 contexto

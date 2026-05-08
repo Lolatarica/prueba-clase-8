@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { useCart } from '../../context/CartContext';
+import { useCart } from '../../Context/CartContext';
 import { useState } from 'react';
 export function Item({ id, nombre, precio, stock, imagen }) {
 // Creamos el objeto producto a partir de las props

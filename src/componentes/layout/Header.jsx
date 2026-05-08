@@ -1,7 +1,7 @@
 import styles from './Header.module.css';
 import { Link } from 'react-router-dom'; // 1. Importamos Link
 // 1. Importamos nuestro custom Hook
-import { useCart } from '../../context/CartContext';
+import { useCart } from '../../Context/CartContext';
 function Header() {
 // 2. Usamos el hook para acceder a la función
 const { getCartQuantity } = useCart();
